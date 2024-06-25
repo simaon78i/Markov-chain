@@ -54,17 +54,9 @@ To get started with these programs, you will need a C compiler such as `gcc`. Fo
    gcc tweets_generator.c -o tweets_generator
    ./tweets_generator
    ```
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests with any enhancements, bug fixes, or additional features you would like to see.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
+   
 ## Contact
 
-For any inquiries or feedback, please reach out to [your email].
+For any inquiries or feedback, please reach out to simaon78ifrac@gmail.com.
 
 Thank you for exploring the NLP with Markov Chain Model project. We hope you find these programs educational and engaging!
