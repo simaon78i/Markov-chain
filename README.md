@@ -57,6 +57,6 @@ To get started with these programs, you will need a C compiler such as `gcc`. Fo
    
 ## Contact
 
-For any inquiries or feedback, please reach out to simaon78ifrac@gmail.com.
+For more information or to contribute, please contact Shimon Ifrach at https://www.linkedin.com/in/shimon-ifrach-a022b5215/.
 
 Thank you for exploring the NLP with Markov Chain Model project. We hope you find these programs educational and engaging!
